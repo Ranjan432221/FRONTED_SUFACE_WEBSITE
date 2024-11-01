@@ -1,0 +1,238 @@
+@media(max-width:760px){
+    *{
+        /* border: 1px solid red; */
+    }
+    .nav-bar{
+       background-color: black;
+     overflow: hidden;
+        position: fixed;
+        z-index: 1000;
+        top: 0; left: 0;right: 0;
+    }
+    header{
+        height: 40vh;
+        overflow: hidden;
+    }
+    .hero-body-text-section {
+       font-size: 12px;
+       margin-top: 1rem;
+    
+    }
+    
+    .hero-bcg-img .nav-bar span{
+        display: none;
+    }  
+    .hero-bcg-img .nav-bar ul a li select {
+        font-size: .6rem;
+    }
+    .circle #main-box1 {
+        padding: 20px; 
+    }
+    .box2 {
+        height: 4vh;
+        width: 10vw;
+        position: relative;
+        right:82%;
+        top: 16px;
+    
+    }
+    .boxx4 {
+        height: 14vh;
+        width: 16vw;
+        font-size: 10px;
+    }
+    .arrow-circle {
+        position: relative;
+        left: 5vw;
+        top: 0;
+    }
+    .hero2-section {
+        height: 120vh;
+        overflow: hidden;
+       
+    }
+    .about-section{
+
+        flex-direction: column;
+      position: relative;
+      left: 4%;
+      top: 14rem;
+    }
+    .about-section2{
+        margin-left: 0rem;
+        margin-top: 1rem;
+        overflow: hidden;
+        
+    }
+    .last-box button{
+      
+        width:12%;
+        border-radius: 4px;
+    }
+    .img2-section {
+        height: 50vh;
+        width: 70vw;
+    }
+    .img2-box {
+        height: 3vh;
+        width: 20vw;
+        background-size: cover;
+        font-weight: 700;
+    }
+    .boxxx{
+        height: 40vh;
+        width: 80vw;
+        margin-left: 2rem;
+        text-align: center;
+        border: 1px solid red;
+      
+    }
+    .hero3-section{
+        height: 180vh;
+      
+    }
+    .hero3-section p{
+        width: 50vw;
+      position:relative;
+      right: 2rem;
+     
+    }
+    .hero3-section .sort{
+        font-size: 14px;
+        line-height: 10px;
+        position: relative;
+        left: 100px; 
+    }
+    .hero4-section{
+        height: 220vh;
+      
+     }
+     .inside-hero4-section button{
+        width: 100%;
+     }
+    .inside-hero4-section{
+        flex-direction: column;
+        position: relative;
+        top: 4rem;
+        left: 1rem;
+    }
+    .s-box{
+        height: 25vh;
+        width: 60vw;
+        background-color: aliceblue;
+        border-radius: .5rem;
+        margin: 5px;
+    }
+    .logo img{
+        height: 8vh;
+        width: 10vw;
+    }
+    .about-section5{
+        margin-top: 4rem;
+    }
+    .box-section1{
+        flex-direction: column;
+    }
+    .box-section2{
+        flex-direction: column;
+    }
+    .hero5-section{
+        height: 140vh;
+       padding: 1.5rem;
+    }
+    .inside-hero5-section{
+        flex-direction: column;
+    }
+    .inside-hero5-section{
+        position: relative;
+        top: 5rem;
+        left: 1rem;
+    }
+    .about-section7{
+        margin-top: 5rem;
+    }
+    .about-section6{
+        overflow: hidden;
+    }
+    .hero5-section .about-section6 .picture{
+        height: 45vh;
+        width: 60vw;
+        border-top-right-radius: 2rem;
+    }
+    .hero5-section img{
+        height: 30vh;
+        width: 26vw;
+        position: relative;
+        top: 8rem;
+    }
+    .hero5-section h4{
+        width: 22vw;
+    }
+    .inner-side-section7 button{
+        width: 100%;
+    }
+    .inner-side-section7{
+       flex-direction:column ;
+       position: relative;
+       top: 3rem;
+       left: 1rem;
+       overflow: hidden;
+       /* border: 1px solid red; */
+    }
+    .hero8-section{
+        height: 180vh;
+    }
+    .full-about-section8{
+        flex-direction: column;
+        position: relative;
+        left: 0rem;
+    }
+    .hero8-section .inside-hero8-section{
+        flex-direction: column;
+        /* border: 1px solid red; */
+        position: relative;
+        top: 4rem;
+        left: 0rem;
+        padding-bottom: 2rem;
+    }
+    .hero8-section .img-section-hero8{
+        position: relative;
+        left: 6rem;
+    }
+    .hero8-section .img-section-hero8 #im2{
+        margin: 6rem 2rem 6rem 12rem;
+    
+    }
+    .about-section10{
+        margin-top: 2rem;
+        position: relative;
+        left: 0rem;
+    }
+    .hero9-section{
+       flex-direction: column;
+    }
+    .hero9-section .log-in-page{
+        width: 80vw;
+    }
+    .hero9-section .about-section11{
+        margin-top: 2rem;
+        margin-left: 2rem;
+        overflow: hidden;
+    }
+    .hero10-section{
+        flex-direction: column;
+            height: 100vh;
+           text-align: center;
+           overflow: hidden;
+    }
+    footer .fst-div{
+        padding: 1rem;
+        
+    }
+    
+    
+
+  
+    
+   
+}
